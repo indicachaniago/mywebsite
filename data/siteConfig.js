@@ -1,15 +1,13 @@
 module.exports = {
-  siteTitle: 'Hi! I\'m Francisco!',
+  siteTitle: 'Hi! I\'m Makaira Indica Chaniago!',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
   authorName: 'Francisco Santos',
-  twitterUsername: '_franciscodf',
-  githubUsername: 'santosfrancisco',
+  twitterUsername: 'indicamakaira',
+  githubUsername: 'indicachaniago',
   authorAvatar: '/images/avatar.jpeg',
-  authorDescription: `Developer, passionate about what I do. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
-    I currently work as a frontend developer and mainly work with <strong>Javascript, NodeJS e React.</strong>`,
+  authorDescription: `I'm a Senior Programmer who knows several programming languages.
+At the moment I'm focusing on the solution architecture of an enterprise application, so the application can adapt to technological developments`,
   skills: [
     {
       name: 'HTML',
@@ -94,10 +92,10 @@ module.exports = {
     /* more portifolio items here */
   ],
   social: {
-    twitter: "https://twitter.com/_franciscodf",
-    linkedin: "https://www.linkedin.com/in/santos-francisco",
-    github: "https://github.com/santosfrancisco",
-    email: "yoshi.df@gmail.com"
+    twitter: "https://twitter.com/indicamakaira",
+    linkedin: "https://www.linkedin.com/in/makaira-indica-chaniago-b29756126/",
+    github: "https://github.com/indicachaniago",
+    email: "chaniagodica@gmail.com"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
