@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Hi! I\'m Makaira Indica Chaniago!',
   siteDescription: `Create your online curriculum in just a few minutes with this starter`,
   keyWords: ['gatsbyjs', 'react', 'curriculum'],
-  authorName: 'Francisco Santos',
+  authorName: 'Makaira Indica',
   twitterUsername: 'indicamakaira',
   githubUsername: 'indicachaniago',
   authorAvatar: '/images/avatar.jpeg',
@@ -28,6 +28,10 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     {
       name: 'React',
       level: 60
+    },
+    {
+      name: 'Git',
+      level: 70
     },
     {
       name: 'Git',
@@ -95,14 +99,15 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     twitter: "https://twitter.com/indicamakaira",
     linkedin: "https://www.linkedin.com/in/makaira-indica-chaniago-b29756126/",
     github: "https://github.com/indicachaniago",
-    email: "chaniagodica@gmail.com"
+    email: "chaniagodica@gmail.com",
+    instagram: "https://www.instagram.com/makairaindica/"
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
   siteCover: '/images/cover.jpeg',
   googleAnalyticsId: 'UA-000000000-1',
   background_color: '#ffffff',
-  theme_color: '#25303B',
+  theme_color: '#1b2b38',
   fontColor: "#000000cc",
   enableDarkmode: true, // If true, enables dark mode switch
   display: 'minimal-ui',

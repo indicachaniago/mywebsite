@@ -56,7 +56,7 @@ const HeaderLink = styled(Link)`
   z-index: 10;
   ${({ active }) => active && css`
     pointer-events: none;
-    border-bottom: 2px solid #fff;
+    border-bottom: 2px solid #black;
   `}
 `
 
