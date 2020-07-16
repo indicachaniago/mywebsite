@@ -99,7 +99,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },  {
       company: "PT Indotech Internusa",
       begin: {
-        month: 'Mei',
+        month: 'May',
         year: '2017'
       },
       duration: '3 mos',
