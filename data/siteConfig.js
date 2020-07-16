@@ -10,32 +10,44 @@ module.exports = {
 At the moment I'm focusing on the solution architecture of an enterprise application, so the application can adapt to technological developments`,
   skills: [
     {
+      name: 'System Integration',
+      level: 90
+    },
+    {
+      name: 'API',
+      level: 90
+    },
+    {
+      name: 'JavaScript',
+      level: 80
+    },
+    {
+      name: 'Java',
+      level: 80
+    },
+    {
+      name: 'NodeJs',
+      level: 80
+    },
+    {
+      name: 'PHP',
+      level: 65
+    },
+    {
+      name: 'SQL',
+      level: 70
+    },
+    {
+      name: 'ÇSS',
+      level: 80
+    },
+    {
       name: 'HTML',
       level: 70
     },
     {
-      name: 'CSS',
+      name: 'Bash',
       level: 60
-    },
-    {
-      name: 'Javascript',
-      level: 50
-    },
-    {
-      name: 'NodeJs',
-      level: 40
-    },
-    {
-      name: 'React',
-      level: 60
-    },
-    {
-      name: 'Git',
-      level: 70
-    },
-    {
-      name: 'Git',
-      level: 70
     },
     /* more skills here */
   ],
