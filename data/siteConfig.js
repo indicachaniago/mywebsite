@@ -38,7 +38,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       level: 70
     },
     {
-      name: 'ÇSS',
+      name: 'CSS',
       level: 80
     },
     {
@@ -49,48 +49,52 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       name: 'Bash',
       level: 60
     },
+    {
+      name: 'Git',
+      level: 90
+    },
     /* more skills here */
   ],
   jobs: [
     /* more jobs here */
     {
-      company: "Gympass",
+      company: "PT. Permata Bank",
       begin: {
-        month: 'sep',
-        year: '2019'
+        month: 'May',
+        year: '2020'
       },
       duration: null,
-      occupation: "Frontend developer",
-      description: "I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies."
+      occupation: "System Integration Development",
+      description: "-"
   
     },  {
-      company: "Lendico",
+      company: "PT. Bank CIMB Niaga",
       begin: {
         month: 'apr',
-        year: '2018'
+        year: '2019'
       },
-      duration: null,
-      occupation: "Frontend developer",
-      description: "I integrate the Frontend team responsible for developing and maintaining the online lending platform."
+      duration: '1 yrs e 2 mos',
+      occupation: "Sr Developer - ESB COE Integration Development",
+      description: "-"
   
     }, {
-      company: "Anapro",
+      company: "PT. Bank CIMB Niaga",
       begin: {
-        month: 'dec',
-        year: '2016'
+        month: 'sep',
+        year: '2018'
       },
-      duration: '1 yr e 5 mos',
-      occupation: "Fullstack developer",
-      description: "Development and maintenance, corrective and preventive, of web applications for the real estate market."
+      duration: '7 mos',
+      occupation: "Developer - Application Development Specialist",
+      description: "-"
     }, {
-      company: "Anapro",
+      company: "PT. Multisoft Java Technologies",
       begin: {
-        month: 'set',
-        year: '2012'
+        month: 'March',
+        year: '2017'
       },
-      duration: '4 yrs e 3 mos',
-      occupation: "Support Technician",
-      description: "Responsible for the implementation and parameterization of the system, training and customer support. Acting also in person in real estate launches guaranteeing the success and good use of the tool."
+      duration: '1 yrs e 7 mos',
+      occupation: "Junior Developer",
+      description: "-"
   
     },
   ],
