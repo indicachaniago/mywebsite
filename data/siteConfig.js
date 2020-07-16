@@ -7,7 +7,7 @@ module.exports = {
   githubUsername: 'indicachaniago',
   authorAvatar: '/images/avatar.jpeg',
   authorDescription: `I'm a Senior Programmer who knows several programming languages.
-At the moment I'm focusing on the solution architecture of an enterprise application, so the application can adapt to technological developments`,
+At the moment I'm focusing on the solution architecture of an enterprise application, so the application can adapt to technological developments.`,
   skills: [
     {
       name: 'System Integration',
