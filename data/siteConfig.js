@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: 'Hi! I\'m Makaira Indica Chaniago!',
-  siteDescription: `Create your online curriculum in just a few minutes with this starter`,
-  keyWords: ['gatsbyjs', 'react', 'curriculum'],
+  siteDescription: `My Personal Blog`,
+  keyWords: ['System Integration', 'Blog', 'Programmer','CV','Website'],
   authorName: 'Makaira Indica',
   twitterUsername: 'indicamakaira',
   githubUsername: 'indicachaniago',
@@ -11,11 +11,11 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
   skills: [
     {
       name: 'System Integration',
-      level: 90
+      level: 80
     },
     {
       name: 'API',
-      level: 90
+      level: 80
     },
     {
       name: 'JavaScript',
@@ -31,7 +31,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
     {
       name: 'PHP',
-      level: 65
+      level: 50
     },
     {
       name: 'SQL',
@@ -39,7 +39,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
     {
       name: 'CSS',
-      level: 80
+      level: 70
     },
     {
       name: 'HTML',
@@ -51,7 +51,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
     {
       name: 'Git',
-      level: 90
+      level: 80
     },
     /* more skills here */
   ],
@@ -109,7 +109,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
   ],
   portifolio: [
-    {
+/*    {
       image: "/images/gatsby-starter-cv.png",
       description: "Gatsby starter CV template",
       url: "https://www.gatsbyjs.org/starters/santosfrancisco/gatsby-starter-cv/"
