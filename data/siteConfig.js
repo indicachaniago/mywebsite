@@ -89,11 +89,21 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     }, {
       company: "PT. Multisoft Java Technologies",
       begin: {
-        month: 'March',
+        month: 'Mar',
         year: '2017'
       },
       duration: '1 yrs e 7 mos',
       occupation: "Junior Developer",
+      description: "-"
+  
+    },  {
+      company: "PT Indotech Internusa",
+      begin: {
+        month: 'Mei',
+        year: '2017'
+      },
+      duration: '3 mos',
+      occupation: "Freelance Programmer",
       description: "-"
   
     },
