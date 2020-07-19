@@ -32,6 +32,7 @@ const Footer = ({ className }) => {
         {github && <Link href={github} icon={FaGithub} />}
         {twitter && <Link href={twitter} icon={FaTwitter} />}
         {linkedin && <Link href={linkedin} icon={FaLinkedin} />}
+        {linkedin && <Link href={instagram} icon={FaInstagram} />}
       </div>
     </footer>
   )
