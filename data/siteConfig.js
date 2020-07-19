@@ -23,11 +23,11 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
     {
       name: 'Java',
-      level: 80
+      level: 75
     },
     {
       name: 'NodeJs',
-      level: 80
+      level: 70
     },
     {
       name: 'PHP',
