@@ -122,11 +122,11 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     /* more portifolio items here */
   ],
   social: {
-    twitter: "https://twitter.com/indicamakaira",
+    /*twitter: "https://twitter.com/indicamakaira",*/
     linkedin: "https://www.linkedin.com/in/makaira-indica-chaniago-b29756126/",
     github: "https://github.com/indicachaniago",
-    email: "chaniagodica@gmail.com",
-    instagram: "https://www.instagram.com/makairaindica/"
+    email: "indicachaniago@gmail.com"
+    /*instagram: "https://www.instagram.com/makairaindica/"*/
   },
   siteUrl: 'https://santosfrancisco.github.io/gatsbystarter-cv',
   pathPrefix: '/gatsby-starter-cv', // Note: it must *not* have a trailing slash.
