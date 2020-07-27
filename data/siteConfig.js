@@ -39,7 +39,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     },
     {
       name: 'CSS',
-      level: 70
+      level: 50
     },
     {
       name: 'HTML',
