@@ -87,8 +87,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       },
       duration: '1 yrs e 2 mos',
       occupation: "Sr Developer - ESB COE Integration Development",
-      description: "-tes"
-                   "\r\n-test3"
+      description: "- Solution Design API using IBM API Connect, - Migration Axway Product to IBM API Connect, - Created framework API using IBM API Connect, - Development API from Document Requirements, - Solution Design Access Control Management with The CIMB Niaga Standard, - Integration API Connect with WMB ( WebSphere Message Broker ), - Object preparation to Production, - Created framework JSON format using WMB ( WebSphere Message Broker ), - GoMobile PIN Block / Unblock Project ( XML to ISO ), - GoMobile List Inquiry Project ( XML to ISO ), - Executed object Deployment in Production, - Support Production"
   
     }, {
       company: "PT. Bank CIMB Niaga",
@@ -98,7 +97,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       },
       duration: '7 mos',
       occupation: "Developer - Application Development Specialist",
-      description: "Development Transformation Messaging from Doc Requirements,GoMobile Cardless Project ( ISO to XML ),GoMobile TD - Deposit Project ( XML to ISO / MBase ),Moblie Internet Banking Bill Payment Project ( XML to ISO ),CardEligibility Project ( XML to ISO ),Executed object Deployment in Production"
+      description: "- Development Transformation Messaging from Doc Requirements, - GoMobile Cardless Project ( ISO to XML ), - GoMobile TD - Deposit Project ( XML to ISO / MBase ), - Moblie Internet Banking Bill Payment Project ( XML to ISO ), - CardEligibility Project ( XML to ISO ), - Executed object Deployment in Production "
     }, {
       company: "PT. Multisoft Java Technologies",
       begin: {
@@ -106,8 +105,8 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
         year: '2017'
       },
       duration: '1 yrs e 7 mos',
-      occupation: "Junior Developer",
-      description: "APSAN ( Aplikasi Pembayaran Pensiunan ) Development,Created new module of C.R.U.D,Fixed JSON Format using Java,Fixed Report using JasperReport,Created new webservice format,Installed Jboss in linux server,Implementation Thymeleaf in Spring Boot,Used Spring Boot Framework, SAKTI ( Sistem Aplikasi Keuangan Tingkat Instansi,Created C.R.U.D into module,Created report using jasperReport,Fixed bugs in The module"
+      occupation: "Software Developer",
+      description: "- APSAN ( Aplikasi Pembayaran Pensiunan ) Development, - Created new module of C.R.U.D, - Fixed JSON Format using Java, - Fixed Report using JasperReport, - Created new webservice format, - Installed Jboss in linux server, - Implementation Thymeleaf in Spring Boot, - Used Spring Boot Framework, - SAKTI ( Sistem Aplikasi Keuangan Tingkat Instansi, - Created C.R.U.D into module, - Created report using jasperReport, - Fixed bugs in The module"
   
     },  {
       company: "PT Indotech Internusa",
@@ -117,7 +116,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       },
       duration: '3 mos',
       occupation: "Freelance Programmer",
-      description: "School Administration Apps Project"
+      description: "- School Administration Apps Project"
   
     },
   ],
