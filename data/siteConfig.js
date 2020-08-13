@@ -72,7 +72,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
     {
       company: "PT. Permata Bank",
       begin: {
-        month: 'May',
+        month: 'Jun',
         year: '2020'
       },
       duration: null,
