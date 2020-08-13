@@ -87,7 +87,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       },
       duration: '1 yrs e 2 mos',
       occupation: "Sr Developer - ESB COE Integration Development",
-      description: "-tes\\-test2"
+      description: "-tes\\n\\n-test2"
   
     }, {
       company: "PT. Bank CIMB Niaga",
