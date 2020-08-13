@@ -87,18 +87,7 @@ At the moment I'm focusing on the solution architecture of an enterprise applica
       },
       duration: '1 yrs e 2 mos',
       occupation: "Sr Developer - ESB COE Integration Development",
-      description: "-Solution Design API using IBM API Connect"
-"-Migration Axway Product to IBM API Connect"
-"-Created framework API using IBM API Connect"
-"-Development API from Document Requirements"
-"-Solution Design Access Control Management with The CIMB Niaga Standard"
-"-Integration API Connect with WMB ( WebSphere Message Broker )"
-"-Object preparation to Production"
-"-Created framework JSON format using WMB ( WebSphere -Message Broker )"
-"-GoMobile PIN Block / Unblock Project ( XML to ISO )"
-"-GoMobile List Inquiry Project ( XML to ISO )"
-"-Executed object Deployment in Production"
-"-Support Production"
+      description: "-tes\\-test2"
   
     }, {
       company: "PT. Bank CIMB Niaga",
